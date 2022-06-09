@@ -1,3 +1,7 @@
 working on something huge
 git training 
+<<<<<<< HEAD
 change on working area 
+=======
+change on local directly 
+>>>>>>> be9fe81757b03237134da26f1640590938091d27
